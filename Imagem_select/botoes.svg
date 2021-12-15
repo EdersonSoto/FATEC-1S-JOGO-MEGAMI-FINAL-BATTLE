@@ -1,0 +1,1553 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1239"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="botoes.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1241"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.85165544"
+     inkscape:cx="337.57783"
+     inkscape:cy="592.37571"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1236">
+    <linearGradient
+       id="linearGradient2771"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2769" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1787"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1785" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1547"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1545" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient212749"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop212747" />
+    </linearGradient>
+    <rect
+       x="56.360821"
+       y="216.0498"
+       width="331.96188"
+       height="388.64499"
+       id="rect2366-3-13" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2771"
+       id="linearGradient2773"
+       x1="116.42854"
+       y1="112.5842"
+       x2="137.29781"
+       y2="112.5842"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33916854,0,0,0.33916854,122.6354,29.03832)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2771"
+       id="linearGradient36655"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33916854,0,0,0.33916854,135.91601,52.241038)"
+       x1="116.42854"
+       y1="112.5842"
+       x2="137.29781"
+       y2="112.5842" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2771"
+       id="linearGradient36700"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33916854,0,0,0.33916854,122.4059,40.488347)"
+       x1="116.42854"
+       y1="112.5842"
+       x2="137.29781"
+       y2="112.5842" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2771"
+       id="linearGradient36745"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33916854,0,0,0.33916854,-10.735357,26.555105)"
+       x1="116.42854"
+       y1="112.5842"
+       x2="137.29781"
+       y2="112.5842" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2771"
+       id="linearGradient36790"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33916854,0,0,0.33916854,-23.147079,35.342165)"
+       x1="116.42854"
+       y1="112.5842"
+       x2="137.29781"
+       y2="112.5842" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2771"
+       id="linearGradient44821"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33916854,0,0,0.33916854,-11.119791,35.726599)"
+       x1="116.42854"
+       y1="112.5842"
+       x2="137.29781"
+       y2="112.5842" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2771"
+       id="linearGradient44866"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33916854,0,0,0.33916854,0.90749703,35.726599)"
+       x1="116.42854"
+       y1="112.5842"
+       x2="137.29781"
+       y2="112.5842" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2771"
+       id="linearGradient44911"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33916854,0,0,0.33916854,1.2370111,47.369452)"
+       x1="116.42854"
+       y1="112.5842"
+       x2="137.29781"
+       y2="112.5842" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2771"
+       id="linearGradient55414"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33916854,0,0,0.33916854,109.93926,40.048994)"
+       x1="116.42854"
+       y1="112.5842"
+       x2="137.29781"
+       y2="112.5842" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2771"
+       id="linearGradient55459"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33916854,0,0,0.33916854,134.43319,40.213752)"
+       x1="116.42854"
+       y1="112.5842"
+       x2="137.29781"
+       y2="112.5842" />
+    <rect
+       x="56.360821"
+       y="216.0498"
+       width="331.96188"
+       height="388.64499"
+       id="rect2366-3-13-6" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient212749"
+       id="linearGradient84055"
+       gradientUnits="userSpaceOnUse"
+       x1="56.361328"
+       y1="343.68668"
+       x2="207.88885"
+       y2="343.68668" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2771"
+       id="linearGradient84319"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33916854,0,0,0.33916854,23.598354,83.015861)"
+       x1="116.42854"
+       y1="112.5842"
+       x2="137.29781"
+       y2="112.5842" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2771"
+       id="linearGradient101854"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33916854,0,0,0.33916854,23.566919,99.626205)"
+       x1="116.42854"
+       y1="112.5842"
+       x2="137.29781"
+       y2="112.5842" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2771"
+       id="linearGradient101917"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33916854,0,0,0.33916854,23.472985,116.59857)"
+       x1="116.42854"
+       y1="112.5842"
+       x2="137.29781"
+       y2="112.5842" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2771"
+       id="linearGradient101980"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33916854,0,0,0.33916854,23.479255,133.2355)"
+       x1="116.42854"
+       y1="112.5842"
+       x2="137.29781"
+       y2="112.5842" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2771"
+       id="linearGradient102043"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33916854,0,0,0.33916854,23.489187,150.12312)"
+       x1="116.42854"
+       y1="112.5842"
+       x2="137.29781"
+       y2="112.5842" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2771"
+       id="linearGradient110958"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33916854,0,0,0.33916998,151.18075,75.542506)"
+       x1="116.42854"
+       y1="112.5842"
+       x2="137.29781"
+       y2="112.5842" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2771"
+       id="linearGradient111021"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33916854,0,0,0.33916998,151.11129,92.457973)"
+       x1="116.42854"
+       y1="112.5842"
+       x2="137.29781"
+       y2="112.5842" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2771"
+       id="linearGradient111084"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33916854,0,0,0.33916998,151.1662,109.09855)"
+       x1="116.42854"
+       y1="112.5842"
+       x2="137.29781"
+       y2="112.5842" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2771"
+       id="linearGradient111174"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33916854,0,0,0.33916998,151.12889,125.99433)"
+       x1="116.42854"
+       y1="112.5842"
+       x2="137.29781"
+       y2="112.5842" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient212749"
+       id="linearGradient138245"
+       gradientUnits="userSpaceOnUse"
+       x1="56.361328"
+       y1="343.68668"
+       x2="207.88885"
+       y2="343.68668" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2771"
+       id="linearGradient141397"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33916854,0,0,0.33916998,151.12889,142.79993)"
+       x1="116.42854"
+       y1="112.5842"
+       x2="137.29781"
+       y2="112.5842" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26798135,0,0,0.33580094,5.2827032,40.008485)"
+       id="text2364-8-8"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2366-3-13);fill:url(#linearGradient84055);fill-opacity:1;stroke:none;stroke-width:1.00053;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="56.361328"
+         y="252.54399"
+         id="tspan147332"><tspan
+           style="font-weight:bold;font-size:17.3333px;font-family:DePixel;-inkscape-font-specification:'DePixel Bold'"
+           id="tspan147330">Cima----------
+</tspan></tspan><tspan
+         x="56.361328"
+         y="302.54399"
+         id="tspan147336"><tspan
+           style="font-weight:bold;font-size:17.3333px;font-family:DePixel;-inkscape-font-specification:'DePixel Bold'"
+           id="tspan147334">Baixo---------
+</tspan></tspan><tspan
+         x="56.361328"
+         y="352.54399"
+         id="tspan147340"><tspan
+           style="font-weight:bold;font-size:17.3333px;font-family:DePixel;-inkscape-font-specification:'DePixel Bold'"
+           id="tspan147338">Direita-------
+</tspan></tspan><tspan
+         x="56.361328"
+         y="402.54399"
+         id="tspan147344"><tspan
+           style="font-weight:bold;font-size:17.3333px;font-family:DePixel;-inkscape-font-specification:'DePixel Bold'"
+           id="tspan147342">Esquerda ---
+</tspan></tspan><tspan
+         x="56.361328"
+         y="452.54399"
+         id="tspan147348"><tspan
+           style="font-weight:bold;font-size:17.3333px;font-family:DePixel;-inkscape-font-specification:'DePixel Bold'"
+           id="tspan147346">Tiro----------- </tspan></tspan></text>
+    <rect
+       style="fill:#000000;stroke:url(#linearGradient84319);stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2106-11-3"
+       width="7.0781984"
+       height="6.6311545"
+       x="63.08725"
+       y="117.88531"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-5-2"
+       cx="-117.9026"
+       cy="66.613174"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-6-7-3"
+       cx="-124.5182"
+       cy="66.628548"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-3-0"
+       cx="63.086864"
+       cy="121.19946"
+       rx="0.28880671"
+       ry="3.3073871"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-9-05-2"
+       cx="70.165443"
+       cy="121.2009"
+       rx="0.28880671"
+       ry="3.3073871"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.11093px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0897377"
+       x="64.242111"
+       y="121.16363"
+       id="text22605-94-5"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan22603-5-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11093px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.0897377"
+         x="64.242111"
+         y="121.16363">W</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26798135,0,0,0.33580236,133.04315,32.651309)"
+       id="text2364-8-8-3"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2366-3-13-6);fill:url(#linearGradient138245);fill-opacity:1;stroke:none;stroke-width:1.00053;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="56.361328"
+         y="252.54399"
+         id="tspan147352"><tspan
+           style="font-weight:bold;font-size:17.3333px;font-family:DePixel;-inkscape-font-specification:'DePixel Bold'"
+           id="tspan147350">Cima----------
+</tspan></tspan><tspan
+         x="56.361328"
+         y="302.54399"
+         id="tspan147356"><tspan
+           style="font-weight:bold;font-size:17.3333px;font-family:DePixel;-inkscape-font-specification:'DePixel Bold'"
+           id="tspan147354">Baixo---------
+</tspan></tspan><tspan
+         x="56.361328"
+         y="352.54399"
+         id="tspan147360"><tspan
+           style="font-weight:bold;font-size:17.3333px;font-family:DePixel;-inkscape-font-specification:'DePixel Bold'"
+           id="tspan147358">Direita-------
+</tspan></tspan><tspan
+         x="56.361328"
+         y="402.54399"
+         id="tspan147364"><tspan
+           style="font-weight:bold;font-size:17.3333px;font-family:DePixel;-inkscape-font-specification:'DePixel Bold'"
+           id="tspan147362">Esquerda ---
+</tspan></tspan><tspan
+         x="56.361328"
+         y="452.54399"
+         id="tspan147368"><tspan
+           style="font-weight:bold;font-size:17.3333px;font-family:DePixel;-inkscape-font-specification:'DePixel Bold'"
+           id="tspan147366">Tiro----------- </tspan></tspan></text>
+    <rect
+       style="fill:#000000;stroke:url(#linearGradient2773);stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2106"
+       width="7.0781984"
+       height="6.6311545"
+       x="162.1243"
+       y="63.907761" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2"
+       cx="-63.92506"
+       cy="165.65021"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-6"
+       cx="-70.540657"
+       cy="165.66559"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)" />
+    <ellipse
+       style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643"
+       cx="162.1239"
+       cy="67.221916"
+       rx="0.28880671"
+       ry="3.3073871" />
+    <ellipse
+       style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-9"
+       cx="169.20248"
+       cy="67.223335"
+       rx="0.28880671"
+       ry="3.3073871" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="71.614532"
+       y="49.207531"
+       id="text5533"><tspan
+         sodipodi:role="line"
+         id="tspan5531"
+         style="stroke-width:0.264583"
+         x="71.614532"
+         y="49.207531"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.19965px;line-height:1.25;font-family:DePixel;-inkscape-font-specification:DePixel;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="9.4460917"
+       y="46.351738"
+       id="text14999"><tspan
+         sodipodi:role="line"
+         id="tspan14997"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.19965px;font-family:DePixel;-inkscape-font-specification:'DePixel Bold';stroke-width:0.264583"
+         x="9.4460917"
+         y="46.351738">W</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.11093px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0897377"
+       x="163.27916"
+       y="67.186081"
+       id="text22605"><tspan
+         sodipodi:role="line"
+         id="tspan22603"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11093px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.0897377"
+         x="163.27916"
+         y="67.186081">I</tspan></text>
+    <rect
+       style="fill:#000000;stroke:url(#linearGradient110958);stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2106-7"
+       width="7.0781984"
+       height="6.6311831"
+       x="190.66966"
+       y="110.4121"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-596"
+       cx="-110.4294"
+       cy="194.19557"
+       rx="0.32832158"
+       ry="3.5345898"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-6-3"
+       cx="-117.04501"
+       cy="194.21095"
+       rx="0.32832158"
+       ry="3.5345898"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-914"
+       cx="190.66927"
+       cy="113.72627"
+       rx="0.28880671"
+       ry="3.3074012"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-9-3"
+       cx="197.74785"
+       cy="113.72768"
+       rx="0.28880671"
+       ry="3.3074012"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.11093px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0897379"
+       x="191.82492"
+       y="113.69018"
+       id="text22605-3"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan22603-64"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11093px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.0897379"
+         x="191.82492"
+         y="113.69018">I</tspan></text>
+    <rect
+       style="fill:#000000;stroke:url(#linearGradient55414);stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2106-2"
+       width="7.0781984"
+       height="6.6311545"
+       x="149.42816"
+       y="74.918434" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-59"
+       cx="-74.93573"
+       cy="152.95409"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-6-6"
+       cx="-81.551331"
+       cy="152.96945"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)" />
+    <ellipse
+       style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-6"
+       cx="149.42778"
+       cy="78.23259"
+       rx="0.28880671"
+       ry="3.3073871" />
+    <ellipse
+       style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-9-2"
+       cx="156.50635"
+       cy="78.234009"
+       rx="0.28880671"
+       ry="3.3073871" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.11093px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0897377"
+       x="150.58302"
+       y="78.196754"
+       id="text22605-6"><tspan
+         sodipodi:role="line"
+         id="tspan22603-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11093px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.0897377"
+         x="150.58302"
+         y="78.196754">J</tspan></text>
+    <rect
+       style="fill:#000000;stroke:url(#linearGradient55459);stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2106-9"
+       width="7.0781984"
+       height="6.6311545"
+       x="173.92209"
+       y="75.083191" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-60"
+       cx="-75.100487"
+       cy="177.44801"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-6-5"
+       cx="-81.716087"
+       cy="177.46338"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)" />
+    <ellipse
+       style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-72"
+       cx="173.92171"
+       cy="78.397346"
+       rx="0.28880671"
+       ry="3.3073871" />
+    <ellipse
+       style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-9-9"
+       cx="181.00029"
+       cy="78.398766"
+       rx="0.28880671"
+       ry="3.3073871" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.11093px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0897377"
+       x="175.07695"
+       y="78.361511"
+       id="text22605-0"><tspan
+         sodipodi:role="line"
+         id="tspan22603-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11093px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.0897377"
+         x="175.07695"
+         y="78.361511">L</tspan></text>
+    <rect
+       style="fill:#000000;stroke:url(#linearGradient36655);stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2106-1"
+       width="7.0781984"
+       height="6.6311545"
+       x="175.40491"
+       y="87.110481" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-4"
+       cx="-87.127777"
+       cy="178.93083"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-6-1"
+       cx="-93.743378"
+       cy="178.9462"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)" />
+    <ellipse
+       style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-4"
+       cx="175.40453"
+       cy="90.424637"
+       rx="0.28880671"
+       ry="3.3073871" />
+    <ellipse
+       style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-9-1"
+       cx="182.48309"
+       cy="90.426056"
+       rx="0.28880671"
+       ry="3.3073871" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.11093px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0897377"
+       x="176.55977"
+       y="90.388802"
+       id="text22605-9"><tspan
+         sodipodi:role="line"
+         id="tspan22603-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11093px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.0897377"
+         x="176.55977"
+         y="90.388802">&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.11093px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0897377"
+       x="176.77306"
+       y="92.74128"
+       id="text22605-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan22603-3-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11093px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.0897377"
+         x="176.77306"
+         y="92.74128">.</tspan></text>
+    <rect
+       style="fill:#000000;stroke:url(#linearGradient36700);stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2106-6"
+       width="7.0781984"
+       height="6.6311545"
+       x="161.89481"
+       y="75.357788" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-8"
+       cx="-75.375084"
+       cy="165.42072"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-6-8"
+       cx="-81.990685"
+       cy="165.4361"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)" />
+    <ellipse
+       style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-7"
+       cx="161.89441"
+       cy="78.671944"
+       rx="0.28880671"
+       ry="3.3073871" />
+    <ellipse
+       style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-9-0"
+       cx="168.97299"
+       cy="78.673363"
+       rx="0.28880671"
+       ry="3.3073871" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.11093px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0897377"
+       x="163.04967"
+       y="78.636108"
+       id="text22605-4"><tspan
+         sodipodi:role="line"
+         id="tspan22603-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11093px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.0897377"
+         x="163.04967"
+         y="78.636108">K</tspan></text>
+    <rect
+       style="fill:#000000;stroke:url(#linearGradient111021);stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2106-6-4"
+       width="7.0781984"
+       height="6.6311831"
+       x="190.6002"
+       y="127.32757"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-8-7"
+       cx="-127.34486"
+       cy="194.12611"
+       rx="0.32832158"
+       ry="3.5345898"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-6-8-7"
+       cx="-133.96049"
+       cy="194.14149"
+       rx="0.32832158"
+       ry="3.5345898"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-7-3"
+       cx="190.59981"
+       cy="130.64174"
+       rx="0.28880671"
+       ry="3.3074012"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-9-0-1"
+       cx="197.67839"
+       cy="130.64314"
+       rx="0.28880671"
+       ry="3.3074012"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.11093px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0897379"
+       x="191.75548"
+       y="130.60561"
+       id="text22605-4-9"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan22603-7-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11093px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.0897379"
+         x="191.75548"
+         y="130.60561">K</tspan></text>
+    <rect
+       style="fill:#000000;stroke:url(#linearGradient36745);stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2106-11"
+       width="7.0781984"
+       height="6.6311545"
+       x="28.753538"
+       y="61.424545" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-5"
+       cx="-61.441845"
+       cy="32.279457"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-6-7"
+       cx="-68.057442"
+       cy="32.29483"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)" />
+    <ellipse
+       style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-3"
+       cx="28.753153"
+       cy="64.738708"
+       rx="0.28880671"
+       ry="3.3073871" />
+    <ellipse
+       style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-9-05"
+       cx="35.83173"
+       cy="64.740128"
+       rx="0.28880671"
+       ry="3.3073871" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.11093px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0897377"
+       x="29.9084"
+       y="64.702866"
+       id="text22605-94"><tspan
+         sodipodi:role="line"
+         id="tspan22603-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11093px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.0897377"
+         x="29.9084"
+         y="64.702866">W</tspan></text>
+    <rect
+       style="fill:#000000;stroke:url(#linearGradient36790);stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2106-8"
+       width="7.0781984"
+       height="6.6311545"
+       x="16.341818"
+       y="70.211601" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-1"
+       cx="-70.228905"
+       cy="19.867739"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-6-2"
+       cx="-76.844498"
+       cy="19.883112"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)" />
+    <ellipse
+       style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-91"
+       cx="16.341433"
+       cy="73.525764"
+       rx="0.28880671"
+       ry="3.3073871" />
+    <ellipse
+       style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-9-4"
+       cx="23.420008"
+       cy="73.527184"
+       rx="0.28880671"
+       ry="3.3073871" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.11093px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0897377"
+       x="17.496679"
+       y="73.489922"
+       id="text22605-8"><tspan
+         sodipodi:role="line"
+         id="tspan22603-32"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11093px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.0897377"
+         x="17.496679"
+         y="73.489922">A</tspan></text>
+    <rect
+       style="fill:#000000;stroke:url(#linearGradient101980);stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2106-8-94"
+       width="7.0781984"
+       height="6.6311545"
+       x="62.968151"
+       y="168.10493"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-1-79"
+       cx="-168.12224"
+       cy="66.494072"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-6-2-1"
+       cx="-174.73784"
+       cy="66.509445"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-91-8"
+       cx="62.967762"
+       cy="171.4191"
+       rx="0.28880671"
+       ry="3.3073871"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-9-4-1"
+       cx="70.046341"
+       cy="171.42052"
+       rx="0.28880671"
+       ry="3.3073871"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.11093px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0897377"
+       x="64.123016"
+       y="171.38326"
+       id="text22605-8-0"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan22603-32-60"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11093px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.0897377"
+         x="64.123016"
+         y="171.38326">A</tspan></text>
+    <rect
+       style="fill:#000000;stroke:url(#linearGradient44821);stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2106-8-5"
+       width="7.0781984"
+       height="6.6311545"
+       x="28.369106"
+       y="70.596031" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-1-7"
+       cx="-70.613335"
+       cy="31.895027"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-6-2-6"
+       cx="-77.228928"
+       cy="31.9104"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)" />
+    <ellipse
+       style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-91-5"
+       cx="28.368721"
+       cy="73.910194"
+       rx="0.28880671"
+       ry="3.3073871" />
+    <ellipse
+       style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-9-4-3"
+       cx="35.447296"
+       cy="73.911613"
+       rx="0.28880671"
+       ry="3.3073871" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.11093px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0897377"
+       x="29.523968"
+       y="73.874352"
+       id="text22605-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan22603-32-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11093px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.0897377"
+         x="29.523968"
+         y="73.874352">S</tspan></text>
+    <rect
+       style="fill:#000000;stroke:url(#linearGradient101854);stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2106-8-5-7"
+       width="7.0781984"
+       height="6.6311545"
+       x="63.055817"
+       y="134.49564"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-1-7-0"
+       cx="-134.51294"
+       cy="66.581734"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-6-2-6-7"
+       cx="-141.12852"
+       cy="66.597107"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-91-5-6"
+       cx="63.055431"
+       cy="137.8098"
+       rx="0.28880671"
+       ry="3.3073871"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-9-4-3-6"
+       cx="70.134003"
+       cy="137.81122"
+       rx="0.28880671"
+       ry="3.3073871"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.11093px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0897377"
+       x="64.210678"
+       y="137.77396"
+       id="text22605-8-3-1"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan22603-32-3-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11093px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.0897377"
+         x="64.210678"
+         y="137.77396">S</tspan></text>
+    <rect
+       style="fill:#000000;stroke:url(#linearGradient44866);stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2106-8-1"
+       width="7.0781984"
+       height="6.6311545"
+       x="40.396393"
+       y="70.596031" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-1-5"
+       cx="-70.613335"
+       cy="43.922314"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-6-2-5"
+       cx="-77.228928"
+       cy="43.937687"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)" />
+    <ellipse
+       style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-91-1"
+       cx="40.396008"
+       cy="73.910194"
+       rx="0.28880671"
+       ry="3.3073871" />
+    <ellipse
+       style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-9-4-7"
+       cx="47.474583"
+       cy="73.911613"
+       rx="0.28880671"
+       ry="3.3073871" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.11093px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0897377"
+       x="41.551254"
+       y="73.874352"
+       id="text22605-8-6"><tspan
+         sodipodi:role="line"
+         id="tspan22603-32-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11093px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.0897377"
+         x="41.551254"
+         y="73.874352">D</tspan></text>
+    <rect
+       style="fill:#000000;stroke:url(#linearGradient44911);stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2106-8-9"
+       width="7.0781984"
+       height="6.6311545"
+       x="40.725906"
+       y="82.238892" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-1-72"
+       cx="-82.256195"
+       cy="44.251827"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-6-2-2"
+       cx="-88.871788"
+       cy="44.2672"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)" />
+    <ellipse
+       style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-91-6"
+       cx="40.725521"
+       cy="85.553055"
+       rx="0.28880671"
+       ry="3.3073871" />
+    <ellipse
+       style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-9-4-2"
+       cx="47.804096"
+       cy="85.554474"
+       rx="0.28880671"
+       ry="3.3073871" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.11093px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0897377"
+       x="41.880768"
+       y="85.517212"
+       id="text22605-8-62"><tspan
+         sodipodi:role="line"
+         id="tspan22603-32-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11093px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.0897377"
+         x="41.880768"
+         y="85.517212">C</tspan></text>
+    <rect
+       style="fill:#000000;stroke:url(#linearGradient102043);stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2106-8-9-4"
+       width="7.0781984"
+       height="6.6311545"
+       x="62.978085"
+       y="184.99257"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-1-72-0"
+       cx="-185.00987"
+       cy="66.504005"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-6-2-2-0"
+       cx="-191.62546"
+       cy="66.519379"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-91-6-0"
+       cx="62.977699"
+       cy="188.30673"
+       rx="0.28880671"
+       ry="3.3073871"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-9-4-2-4"
+       cx="70.056274"
+       cy="188.30815"
+       rx="0.28880671"
+       ry="3.3073871"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.11093px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0897377"
+       x="64.132942"
+       y="188.27089"
+       id="text22605-8-62-6"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan22603-32-6-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11093px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.0897377"
+         x="64.132942"
+         y="188.27089">R</tspan></text>
+    <rect
+       style="fill:#000000;stroke:url(#linearGradient101917);stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2106-8-1-7"
+       width="7.0781984"
+       height="6.6311545"
+       x="62.96188"
+       y="151.468"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-1-5-0"
+       cx="-151.48531"
+       cy="66.487801"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-6-2-5-7"
+       cx="-158.10091"
+       cy="66.503174"
+       rx="0.32832018"
+       ry="3.5345898"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-91-1-8"
+       cx="62.961494"
+       cy="154.78217"
+       rx="0.28880671"
+       ry="3.3073871"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-9-4-7-7"
+       cx="70.04007"
+       cy="154.78358"
+       rx="0.28880671"
+       ry="3.3073871"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.11093px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0897377"
+       x="64.116737"
+       y="154.74632"
+       id="text22605-8-6-3"
+       inkscape:export-filename="C:\Users\eders\comando1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan22603-32-9-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11093px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.0897377"
+         x="64.116737"
+         y="154.74632">D</tspan></text>
+    <rect
+       style="fill:#000000;stroke:url(#linearGradient111084);stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2106-9-6"
+       width="7.0781984"
+       height="6.6311831"
+       x="190.65511"
+       y="143.96814"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-60-6"
+       cx="-143.98544"
+       cy="194.18103"
+       rx="0.32832158"
+       ry="3.5345898"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-6-5-1"
+       cx="-150.60106"
+       cy="194.1964"
+       rx="0.32832158"
+       ry="3.5345898"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-72-8"
+       cx="190.65472"
+       cy="147.2823"
+       rx="0.28880671"
+       ry="3.3074012"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-9-9-8"
+       cx="197.73331"
+       cy="147.28374"
+       rx="0.28880671"
+       ry="3.3074012"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.11093px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0897379"
+       x="191.81036"
+       y="147.24615"
+       id="text22605-0-5"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan22603-6-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11093px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.0897379"
+         x="191.81036"
+         y="147.24615">L</tspan></text>
+    <rect
+       style="fill:#000000;stroke:url(#linearGradient111174);stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2106-9-5"
+       width="7.0781984"
+       height="6.6311831"
+       x="190.6178"
+       y="160.86392"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-60-4"
+       cx="-160.88123"
+       cy="194.14372"
+       rx="0.32832158"
+       ry="3.5345898"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-6-5-3"
+       cx="-167.49686"
+       cy="194.15909"
+       rx="0.32832158"
+       ry="3.5345898"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-72-9"
+       cx="190.61742"
+       cy="164.1781"
+       rx="0.28880671"
+       ry="3.3074012"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-9-9-5"
+       cx="197.696"
+       cy="164.17952"
+       rx="0.28880671"
+       ry="3.3074012"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.11093px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0897379"
+       x="191.77306"
+       y="164.14191"
+       id="text22605-0-9"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan22603-6-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11093px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.0897379"
+         x="191.77306"
+         y="164.14191">J</tspan></text>
+    <rect
+       style="fill:#000000;stroke:url(#linearGradient141397);stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2106-9-5-4"
+       width="7.0781984"
+       height="6.6311831"
+       x="190.6178"
+       y="177.66953"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-60-4-1"
+       cx="-177.68683"
+       cy="194.14372"
+       rx="0.32832158"
+       ry="3.5345898"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-0-2-6-5-3-9"
+       cx="-184.30246"
+       cy="194.15909"
+       rx="0.32832158"
+       ry="3.5345898"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-72-9-4"
+       cx="190.61742"
+       cy="180.9837"
+       rx="0.28880671"
+       ry="3.3074012"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path2643-9-9-5-5"
+       cx="197.696"
+       cy="180.98512"
+       rx="0.28880671"
+       ry="3.3074012"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.11093px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0897379"
+       x="191.77306"
+       y="180.94751"
+       id="text22605-0-9-1"
+       inkscape:export-filename="C:\Users\eders\comando2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan22603-6-9-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11093px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.0897379"
+         x="191.77306"
+         y="180.94751">P</tspan></text>
+  </g>
+</svg>
